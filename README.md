@@ -1,8 +1,11 @@
-----
+
 # DeepFER: Facial Expression Recognition with Deep Neural Network and Attentional Convolutional Network
 
-### Authors: Mubashir Mohsin, Shahriar Hossain Rafi, and Jishan Ferdows Navil.
-### Supervisor: Dr. Debajyoti Karmaker, Associate Professor, Member [Research and Publication Steering Committee], Department of Computer Science, AIUB.
+### Authors: Mubashir Mohsin*, Shahriar Hossain Rafi, and Jishan Ferdows Navil.
+### Project Course: COMPUTER VISION AND PATTERN RECOGNITION (CVPR).
+### Department of Computer Science, AIUB.
+`*Corresponding author`
+
 ----
 <b> Project Description: </b></br>
 This is a Computer Vision project and paper based on Deep Neural Networks and Attentional Convolutional Networks to recognize various human facial expressions. This project includes FER2013, JAFFE, CK+, and FERG datasets. The project has been made using Python and its popular Deep Learning modules like TensorFlow, Keras, and PyTorch. Below you'll get a detailed description of the whole project and the results.
